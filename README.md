@@ -26,3 +26,17 @@ result will be displayed, along with the choices of both the computer and the us
     - If the user wins, then return 1.
     - If the user loses, then return 0.
     - If it is a tie, then retun -1.
+
+## To run:
+
+- Build:
+
+``` bash
+$ gcc rock-paper-scissors.c -o rock-paper-scissors.out
+```
+
+- Run:
+
+``` bash
+$ ./rock-paper-scissors.out
+```
